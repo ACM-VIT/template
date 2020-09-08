@@ -1,6 +1,5 @@
-![heading_image][image]
+![heading_image](./acm_header.png)
 
-[image]: https://www.uokpl.rs/fpng/d/604-6049435_knowage-on-twitter.png
 <!-- forks/stars/tech stack in the form of badges from https://shields.io/ example -->
 <p align="center">
 <a href="https://www.python.org/">
