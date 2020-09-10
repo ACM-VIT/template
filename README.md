@@ -8,13 +8,26 @@
 Short description about the project.
 </p>
 
-![made-by-acm](https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge)
+
+<p>
+  <a href="https://acmvit.in/" target="_blank">
+    <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
+  </a>
+    <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
+    <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
+</p>
 
 ---
 
 The overview starts here. Random text about the project, motive, how, what, why etc.
 
 ---
+
+## Screenshots
+
+<!-- Add one screenshot of your project (max height: 1000px, max size: 1mb) if applicable under assets folder in root of your project ![sceenshot](assets/<name of image>) -->
+
+<!-- if your project has multiple pictures , merge them into one image using a tool similar to figma -->
 
 ## Usage
 
@@ -32,7 +45,13 @@ git merge
 
 ---
 
+## Installation
+<!-- Provide step by step instllation commands to use the project , if applicable -->
+
 ## Authors
 
 **Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
 **Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+
+
+
