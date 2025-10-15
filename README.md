@@ -77,7 +77,8 @@ We welcome contributions of all kinds! Please read our [Contributing Guidelines]
 
 <p>
   <a href="https://hacktoberfest.com/" target="_blank">
-<img alt="hactoberfest" src="https://img.shields.io/github/hacktoberfest/2025/tmrowco/tmrowapp-contrib?style=flat-square&logo=acm&labelColor=indigo&link=hacktoberfest.com"/>
+<img alt="hactoberfest" src="https://img.shields.io/github/hacktoberfest/2025/tmrowco/tmrowapp-contrib?style=flat-square&logo=acm&labelColor=indigo&link=hacktoberfest.com
+" />
   </a>
 
 <!-- Badge Format 
@@ -144,5 +145,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 <div align="center">
   
 Made with ❤️ by <a href="https://acmvit.in/" target="_blank">ACM‑VIT</a>
+
+![Footer GIF](https://raw.githubusercontent.com/ACM-VIT/.github/master/profile/domains.gif)
 
 </div>
